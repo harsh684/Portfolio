@@ -10,8 +10,8 @@ import {
     redux,
     tailwind,
     git,
-    jenkins,
-    docker,
+    // jenkins,
+    // docker,
     java,
     hexaware,
     ltimindtree,
@@ -19,12 +19,12 @@ import {
     medisearch,
     bootstrap,
     aws,
-    threejs,
+    // threejs,
     github,
     springboot,
     angular,
     mysql,
-    todo,
+    // todo,
     careercrafter
   } from "../assets";
   

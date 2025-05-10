@@ -1,5 +1,4 @@
-import React from 'react'
-import { styles } from '../../Styles/styles'
+
 import BallCanvas from '../Canvas/Ball';
 import { SectionWrapper } from '../hoc';
 import { technologies } from '../../utils/Constants';

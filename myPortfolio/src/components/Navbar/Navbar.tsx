@@ -1,8 +1,7 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { styles } from '../../Styles/styles'
 import { Link } from 'react-router-dom'
 import { logo } from '../../assets';
-import { li } from 'framer-motion/client';
 import { navLinks } from '../../utils/Constants';
 import menu from '../../assets/menu.svg'
 import close from '../../assets/close.svg'

@@ -1,12 +1,6 @@
-import React from 'react'
-import {motion} from 'framer-motion';
-import {styles} from '../../Styles/styles'
-import { staggerContainer } from '../../utils/motion';
 
-interface SectionWrapperProps{
-    Component:any;
-    idName:string;
-}
+import {motion} from 'framer-motion';
+import { staggerContainer } from '../../utils/motion';
 function SectionWrapper(Component:any,idName:string) {
   function HOC(){
     return (
