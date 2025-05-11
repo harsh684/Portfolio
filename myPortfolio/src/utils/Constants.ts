@@ -153,16 +153,16 @@ import {
       ],
     },
     {
-      title: "Softare Developer Intern",
+      title: "Software Developer Intern",
       company_name: "ALT Mobility",
       icon: altmobility,
       iconBg: "#383E56",
       date: "Mar 2024 - May 2024",
       points: [
         "Developed and maintained critical web modules using React, Bootstrap and other related technologies.",
-        "Implemented UI design and frontend based features.",
+        "Implemented UI design and frontend-based features.",
         "Implemented responsive design and ensured cross-browser compatibility.",
-        "Participated in code reviews and providing constructive feedback to other developers.",
+        "Participated in code reviews and provided constructive feedback to other developers.",
       ],
     },
     {
