@@ -40,11 +40,11 @@ const FeedbackCard = ({
           </p>
         </div>
 
-        <img
+        {image && <img
           src={image}
           alt={`feedback_by-${name}`}
           className='w-10 h-10 rounded-full object-cover'
-        />
+        />}
       </div>
     </div>
   </motion.div>
@@ -60,7 +60,7 @@ const Feedbacks = () => {
         </motion.div>
       </div>
 
-      <div className='pb-14 px-8 flex flex-wrap justify-evenly gap-7'>
+      <div className='pb-14 px-8 flex flex-wrap justify-start gap-7'>
         {testimonials.map((testimonial, index) => (
           <FeedbackCard key={testimonial.name} index={index} {...testimonial} />
         ))}

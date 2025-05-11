@@ -49,7 +49,7 @@ import {
       icon: web,
     },
     {
-      title: "React / Angular Developer",
+      title: "React / Angular",
       icon: mobile,
     },
     {
@@ -179,114 +179,106 @@ import {
   ];
   
   const testimonials = [
-    {
-      testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
-    },
-    {
-      testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
-    },
-    {
-      testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
-    },
-  ];
-  
-  const projects = [
-    {
-      name: "Career Crafter",
-      description:
-        "A Job portal which allowws recruiters to post job listing & hire candidates. It allows Job Seekers to create or upload their resume, browse & apply for job listings",
-      tags: [
-        {
-          name: "Angular 16",
-          color: "bg-gradient-to-r from-red-500 to-yellow-500 text-transparent bg-clip-text",
-        },
-        {
-          name: "Spring Boot",
-          color: "bg-gradient-to-r from-green-400 to-blue-600 text-transparent bg-clip-text",
-        },
-        {
-          name: "MySQL",
-          color: "bg-gradient-to-r from-pink-500 to-purple-500 text-transparent bg-clip-text",
-        },
-        {
-          name: "JWT Auth",
-          color: "bg-gradient-to-r from-lime-400 to-emerald-500 text-transparent bg-clip-text",
-        },
-        {
-          name: "TypeScript",
-          color: "bg-gradient-to-r from-sky-400 to-blue-700 text-transparent bg-clip-text",
-        },
-      ],
-      image: careercrafter,
-      source_code_link: "https://github.com/harsh684/CareerCrafter",
-    },
-    {
-      name: "Medical Search Engine",
-      description:
-        "A Web-based application that allows you to search for any disease or any medical related term.",
-      tags: [
-        {
-          name: "HTML",
-          color: "bg-gradient-to-r from-red-500 to-yellow-500 text-transparent bg-clip-text",
-        },
-        {
-          name: "SASS",
-          color: "bg-gradient-to-r from-green-400 to-blue-600 text-transparent bg-clip-text",
-        },
-        {
-          name: "Javascript",
-          color: "bg-gradient-to-r from-pink-500 to-purple-500 text-transparent bg-clip-text",
-        },
-        {
-          name: "Wikipedia API",
-          color: "bg-gradient-to-r from-lime-400 to-emerald-500 text-transparent bg-clip-text",
-        },
-        
-      ],
-      image: medisearch,
-      source_code_link: "https://github.com/harsh684/Search_Engine",
-    },
-    {
-      name: "ToDo App",
-      description:
-        "A Web-based ToDo list application.",
-      tags: [
-        {
-          name: "Angular16",
-          color: "bg-gradient-to-r from-red-500 to-yellow-500 text-transparent bg-clip-text",
-        },
-        {
-          name: "Spring Boot",
-          color: "bg-gradient-to-r from-green-400 to-blue-600 text-transparent bg-clip-text",
-        },
-        {
-          name: "Bootstap",
-          color: "bg-gradient-to-r from-pink-500 to-purple-500 text-transparent bg-clip-text",
-        },
-        {
-          name: "Typescript",
-          color: "bg-gradient-to-r from-lime-400 to-emerald-500 text-transparent bg-clip-text",
-        },
-        
-      ],
-      // image: todo,
-      // source_code_link: "https://github.com/harsh684/Search_Engine",
-    },
-  ];
+      {
+        testimonial:
+          "I thought it was impossible to make a website as beautiful as our product, but Harsh proved me wrong.",
+        name: "Ayush Kumar",
+        designation: "Ex-Product Manager",
+        company: "Alt Mobility",
+        image: "https://media.licdn.com/dms/image/v2/D5603AQGdbHThPdWi9A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731513692502?e=1752710400&v=beta&t=HvVJL-6AQYPA59zIeP1BKsrsVmJWo4ypme0So-iLA5s",
+      },
+      {
+        testimonial:
+          "I've never met a developer who truly works like Harsh does.",
+        name: "Sreeram Rachakonda",
+        designation: "Software Engineer",
+        company: "Hexaware Technologies",
+        image: "https://media.istockphoto.com/id/1495088043/vector/user-profile-icon-avatar-or-person-icon-profile-picture-portrait-symbol-default-portrait.jpg?s=612x612&w=0&k=20&c=dhV2p1JwmloBTOaGAtaA3AW1KSnjsdMt7-U_3EZElZ0=",
+      },
+    ];
+    
+    const projects = [
+      {
+        name: "Career Crafter",
+        description:
+          "A Job portal which allows recruiters to post job listing & hire candidates. It allows Job Seekers to create or upload their resume, browse & apply for job listings",
+        tags: [
+          {
+            name: "Angular 16",
+            color: "bg-[#DD0031] text-transparent bg-clip-text",
+          },
+          {
+            name: "Spring Boot",
+            color: "bg-[#6DB33F] text-transparent bg-clip-text",
+          },
+          {
+            name: "MySQL",
+            color: "bg-[#00758F] text-transparent bg-clip-text",
+          },
+          {
+            name: "JWT Auth",
+            color: "bg-[#EA580C] text-transparent bg-clip-text",
+          },
+          {
+            name: "TypeScript",
+            color: "bg-[#409EFF] text-transparent bg-clip-text",
+          },
+        ],
+        image: careercrafter,
+        source_code_link: "https://github.com/harsh684/CareerCrafter",
+      },
+      {
+        name: "Medical Search Engine",
+        description:
+          "A Web-based application that allows you to search for any disease or any medical related term.",
+        tags: [
+          {
+            name: "HTML",
+            color: "bg-[#E44D26] text-transparent bg-clip-text",
+          },
+          {
+            name: "SASS",
+            color: "bg-[#264DE4] text-transparent bg-clip-text",
+          },
+          {
+            name: "Javascript",
+            color: "bg-[#F7DF1E] text-transparent bg-clip-text",
+          },
+          {
+            name: "Wikipedia API",
+            color: "bg-[#3B82F6] text-transparent bg-clip-text",
+          },
+          
+        ],
+        image: medisearch,
+        source_code_link: "https://github.com/harsh684/Search_Engine",
+      },
+      {
+        name: "ToDo App",
+        description:
+          "A Web-based ToDo list application.",
+        tags: [
+          {
+            name: "Angular16",
+            color: "bg-[#DD0031] text-transparent bg-clip-text",
+          },
+          {
+            name: "Spring Boot",
+            color: "bg-[#6DB33F] text-transparent bg-clip-text",
+          },
+          {
+            name: "Bootstrap",
+            color: "bg-[#B197FC] text-transparent bg-clip-text",
+          },
+          {
+            name: "Typescript",
+            color: "bg-[#409EFF] text-transparent bg-clip-text",
+          },
+          
+        ],
+        // image: todo,
+        // source_code_link: "https://github.com/harsh684/Search_Engine",
+      },
+    ];
   
   export { services, technologies, experiences, testimonials, projects };

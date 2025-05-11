@@ -30,6 +30,20 @@ const [loading, setLoading] = useState(false);
 
   const handleSubmit = (e:any) => {
     e.preventDefault();
+
+    // Basic empty check
+  if (!form.name.trim() || !form.email.trim() || !form.message.trim()) {
+    alert("Please fill in all fields.");
+    return;
+  }
+
+  // Basic email format check
+  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  if (!emailRegex.test(form.email)) {
+    alert("Please enter a valid email address.");
+    return;
+  }
+  
     setLoading(true);
 
     emailjs
