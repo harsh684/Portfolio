@@ -153,16 +153,16 @@ import {
       ],
     },
     {
-      title: "Softare Developer Intern",
+      title: "Software Developer Intern",
       company_name: "ALT Mobility",
       icon: altmobility,
       iconBg: "#383E56",
       date: "Mar 2024 - May 2024",
       points: [
         "Developed and maintained critical web modules using React, Bootstrap and other related technologies.",
-        "Implemented UI design and frontend based features.",
+        "Implemented UI design and frontend-based features.",
         "Implemented responsive design and ensured cross-browser compatibility.",
-        "Participated in code reviews and providing constructive feedback to other developers.",
+        "Participated in code reviews and provided constructive feedback to other developers.",
       ],
     },
     {
@@ -209,27 +209,27 @@ import {
     {
       name: "Career Crafter",
       description:
-        "A Job portal which allowws recruiters to post job listing & hire candidates. It allows Job Seekers to create or upload their resume, browse & apply for job listings",
+        "A Job portal which allows recruiters to post job listing & hire candidates. It allows Job Seekers to create or upload their resume, browse & apply for job listings",
       tags: [
         {
           name: "Angular 16",
-          color: "bg-gradient-to-r from-red-500 to-yellow-500 text-transparent bg-clip-text",
+          color: "bg-[#DD0031] text-transparent bg-clip-text",
         },
         {
           name: "Spring Boot",
-          color: "bg-gradient-to-r from-green-400 to-blue-600 text-transparent bg-clip-text",
+          color: "bg-[#6DB33F] text-transparent bg-clip-text",
         },
         {
           name: "MySQL",
-          color: "bg-gradient-to-r from-pink-500 to-purple-500 text-transparent bg-clip-text",
+          color: "bg-[#00758F] text-transparent bg-clip-text",
         },
         {
           name: "JWT Auth",
-          color: "bg-gradient-to-r from-lime-400 to-emerald-500 text-transparent bg-clip-text",
+          color: "bg-[#EA580C] text-transparent bg-clip-text",
         },
         {
           name: "TypeScript",
-          color: "bg-gradient-to-r from-sky-400 to-blue-700 text-transparent bg-clip-text",
+          color: "bg-[#409EFF] text-transparent bg-clip-text",
         },
       ],
       image: careercrafter,
@@ -242,19 +242,19 @@ import {
       tags: [
         {
           name: "HTML",
-          color: "bg-gradient-to-r from-red-500 to-yellow-500 text-transparent bg-clip-text",
+          color: "bg-[#E44D26] text-transparent bg-clip-text",
         },
         {
           name: "SASS",
-          color: "bg-gradient-to-r from-green-400 to-blue-600 text-transparent bg-clip-text",
+          color: "bg-[#264DE4] text-transparent bg-clip-text",
         },
         {
           name: "Javascript",
-          color: "bg-gradient-to-r from-pink-500 to-purple-500 text-transparent bg-clip-text",
+          color: "bg-[#F7DF1E] text-transparent bg-clip-text",
         },
         {
           name: "Wikipedia API",
-          color: "bg-gradient-to-r from-lime-400 to-emerald-500 text-transparent bg-clip-text",
+          color: "bg-[#3B82F6] text-transparent bg-clip-text",
         },
         
       ],
@@ -268,19 +268,19 @@ import {
       tags: [
         {
           name: "Angular16",
-          color: "bg-gradient-to-r from-red-500 to-yellow-500 text-transparent bg-clip-text",
+          color: "bg-[#DD0031] text-transparent bg-clip-text",
         },
         {
           name: "Spring Boot",
-          color: "bg-gradient-to-r from-green-400 to-blue-600 text-transparent bg-clip-text",
+          color: "bg-[#6DB33F] text-transparent bg-clip-text",
         },
         {
-          name: "Bootstap",
-          color: "bg-gradient-to-r from-pink-500 to-purple-500 text-transparent bg-clip-text",
+          name: "Bootstrap",
+          color: "bg-[#B197FC] text-transparent bg-clip-text",
         },
         {
           name: "Typescript",
-          color: "bg-gradient-to-r from-lime-400 to-emerald-500 text-transparent bg-clip-text",
+          color: "bg-[#409EFF] text-transparent bg-clip-text",
         },
         
       ],
