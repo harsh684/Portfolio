@@ -25,7 +25,7 @@ const FeedbackCard = ({
         children: [
           _jsx("p", {
             className:
-              "text-gray-200 tracking-wide md:text-[18px] xs:text-[14px]",
+              "text-gray-200 tracking-wide md:text-[16px] xs:text-[14px]",
             children: testimonial,
           }),
           _jsxs("div", {
