@@ -128,7 +128,7 @@ const experiences = [
         ],
     },
     {
-        title: "Softare Developer Intern",
+        title: "Software Developer Intern",
         company_name: "ALT Mobility",
         icon: altmobility,
         iconBg: "#383E56",
