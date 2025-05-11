@@ -179,23 +179,25 @@ import {
   ];
   
   const testimonials = [
-      {
-        testimonial:
-          "I thought it was impossible to make a website as beautiful as our product, but Harsh proved me wrong.",
-        name: "Ayush Kumar",
-        designation: "Ex-Product Manager",
-        company: "Alt Mobility",
-        image: "https://media.licdn.com/dms/image/v2/D5603AQGdbHThPdWi9A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731513692502?e=1752710400&v=beta&t=HvVJL-6AQYPA59zIeP1BKsrsVmJWo4ypme0So-iLA5s",
-      },
-      {
-        testimonial:
-          "I've never met a developer who truly works like Harsh does.",
-        name: "Sreeram Rachakonda",
-        designation: "Software Engineer",
-        company: "Hexaware Technologies",
-        image: "https://media.istockphoto.com/id/1495088043/vector/user-profile-icon-avatar-or-person-icon-profile-picture-portrait-symbol-default-portrait.jpg?s=612x612&w=0&k=20&c=dhV2p1JwmloBTOaGAtaA3AW1KSnjsdMt7-U_3EZElZ0=",
-      },
-    ];
+  {
+    testimonial:
+      "Harsh brought both creativity and reliability to our web development efforts. He translated complex requirements into a clean, responsive UI that really impressed our stakeholders.",
+    name: "Ayush Kumar",
+    designation: "Former Product Manager",
+    company: "Alt Mobility",
+    image:
+      "https://media.licdn.com/dms/image/v2/D5603AQGdbHThPdWi9A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731513692502?e=1752710400&v=beta&t=HvVJL-6AQYPA59zIeP1BKsrsVmJWo4ypme0So-iLA5s",
+  },
+  {
+    testimonial:
+      "Working with Harsh has been a pleasure. He’s not only skilled in full-stack development but also has a great sense of collaboration and attention to detail, which made team projects smooth and efficient.",
+    name: "Sreeram Rachakonda",
+    designation: "Software Engineer",
+    company: "Hexaware Technologies",
+    image:
+      "https://media.istockphoto.com/id/1495088043/vector/user-profile-icon-avatar-or-person-icon-profile-picture-portrait-symbol-default-portrait.jpg?s=612x612&w=0&k=20&c=dhV2p1JwmloBTOaGAtaA3AW1KSnjsdMt7-U_3EZElZ0=",
+  },
+];
     
     const projects = [
       {
