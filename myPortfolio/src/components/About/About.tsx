@@ -49,7 +49,7 @@ function About() {
         variants={fadeIn("","",0.1,1)} //direction, type, delay, duration
       className='mt-4 text-gray-400 text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a highly motivated Software Engineer with a desire to take on new challenges. Possess a strong
+        I'm a highly motivated Software Engineer with 2 years of experience in Full-Stack Development & a desire to take on new challenges. Possess a strong
  foundation in Full-Stack Technologies and the ability to adapt to new technologies. Experienced in Java, Javascript, Typescript, MySql, and expertise in frameworks like React, Angular, Spring Boot, ThreeJs and other technologies like
  AWS, Docker, Jenkins.  Adept at working
  effectively unsupervised and quickly mastering new skills
