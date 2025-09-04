@@ -10,8 +10,9 @@ import {
     redux,
     tailwind,
     git,
+    sql,
     // jenkins,
-    // docker,
+    docker,
     java,
     hexaware,
     ltimindtree,
@@ -59,6 +60,14 @@ import {
     {
       title: "GitHub",
       icon: github,
+    },
+    {
+      title: "SQL / NoSQL",
+      icon: sql,
+    },
+    {
+      title: "CI/CD",
+      icon: docker,
     },
     {
       title: "AWS",
@@ -139,7 +148,7 @@ import {
   
   const experiences = [
     {
-      title: "Associate Software Engineer",
+      title: "Software Engineer",
       company_name: "Hexaware Technologies",
       icon: hexaware,
       iconBg: "#E6DEDD",
@@ -186,7 +195,7 @@ import {
     designation: "Former Product Manager",
     company: "Alt Mobility",
     image:
-      "https://media.licdn.com/dms/image/v2/D5603AQGdbHThPdWi9A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731513692502?e=1752710400&v=beta&t=HvVJL-6AQYPA59zIeP1BKsrsVmJWo4ypme0So-iLA5s",
+      "https://media.licdn.com/dms/image/v2/D5603AQGdbHThPdWi9A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1731513692461?e=1759968000&v=beta&t=4Cl6AM-I77XvJSv2ybuOCMuboLYBj076kGLoDr4o2u4",
   },
   {
     testimonial:
